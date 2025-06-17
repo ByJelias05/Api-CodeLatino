@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api-CodeLatino")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccf717ec1c5b4983489f1be529fbbd934c587fb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56565e66dbdb7c980c8b560a7c568bc8db33459a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api-CodeLatino")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api-CodeLatino")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
